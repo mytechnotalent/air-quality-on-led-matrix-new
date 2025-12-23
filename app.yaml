@@ -1,0 +1,5 @@
+name: "Air quality on LED matrix - NEW"
+description: An updated Air Quality Monitoring System that uses air quality AQI API data to show the air quality state on the LED matrix.
+ports: []
+bricks: []
+icon: 🍃
